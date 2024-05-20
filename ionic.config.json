@@ -1,0 +1,8 @@
+{
+  "name": "DesmotivacionalApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bd8ea9b9"
+}
